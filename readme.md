@@ -8,4 +8,4 @@ TO RUN:
 -once mvn is finished, cd into the target directory from the main submission directory
 -run command: java -jar submission-INTERVIEW-SUBMISSION.jar
 -the server should now be running on the port specified in application.properties.
--auto-generated api documentation should be available at http://<serveraddress>/<serverport>/v3/api-docs
+-auto-generated api documentation should be available at http://yourserveraddress/yourserverport/v3/api-docs
